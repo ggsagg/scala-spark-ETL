@@ -45,8 +45,8 @@ object Main extends App {
   /******************** TRANSFORM *********************/
 
   //Gets all matches from a player and transforms them to a List of match IDs
-  def getPlayerMatches(userDF: DataFrame): List[String] = {
-    userDF.select("match_id").rdd.map(r => r(0).toString).collect.toList
+  def getPlayerMatches(userDF: DataFrame, nMatches: Int): List[String] = {
+    userDF.select("match_id").limit(nMatches).rdd.map(r => r(0).toString).collect.toList
   }
 
   def avgKdaComputation(userDF: DataFrame, nMatches: Int): Float = {
@@ -155,7 +155,7 @@ object Main extends App {
   val dotaPlayerDF = GetUrlContentJson(URL_PLAYER)
 
   //Transform the Data and compute the KPIs
-  val totalKP = KPTotalComputation(getPlayerMatches(dotaPlayerDF), dotaPlayerDF)
+  val totalKP = KPTotalComputation(getPlayerMatches(dotaPlayerDF, NMATCHES), dotaPlayerDF)
 
   val maxKDA = maxKdaComputation(dotaPlayerDF, NMATCHES)
   val minKDA = minKdaComputation(dotaPlayerDF, NMATCHES)
