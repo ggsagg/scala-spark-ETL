@@ -171,4 +171,5 @@ object Main extends App {
 
   //Save new Data as JSON
   saveDFtoJSON(finalDF,"src/main/scala/output/")
+  spark.stop()
 }
