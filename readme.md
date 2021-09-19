@@ -1,6 +1,6 @@
 # sparkers-assignment ETL with Scala and Spark
 
-You can find an SBT project with the solution with a Docker image, and a Jupyter Notebook.
+You can find a SBT project with the solution with a Docker image, and a Jupyter Notebook.
 
 To run the SBT:
 
