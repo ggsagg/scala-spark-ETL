@@ -1,1 +1,0 @@
-["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.14":{"hashes":[["/Users/gabrielsoria/Workspace/sparkers/src/main/scala/dota/Main.scala","4c3e8c45c819e6d121524889670b704fe2facc51"]],"lastModifiedTimes":[]}}]

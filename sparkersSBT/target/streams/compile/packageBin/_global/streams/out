@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/gabrielsoria/Workspace/sparkers/sparkersSBT/target/scala-2.12/sparkers_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	output[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gabrielsoria/Workspace/sparkers/sparkersSBT/target/scala-2.12/classes/output[0m
+[0m[[0m[0mdebug[0m] [0m[0m	output/._SUCCESS.crc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gabrielsoria/Workspace/sparkers/sparkersSBT/target/scala-2.12/classes/output/._SUCCESS.crc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	output/.part-00000-a2317aed-f37f-48b9-bd18-ec5948224a64-c000.json.crc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gabrielsoria/Workspace/sparkers/sparkersSBT/target/scala-2.12/classes/output/.part-00000-a2317aed-f37f-48b9-bd18-ec5948224a64-c000.json.crc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	output/_SUCCESS[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gabrielsoria/Workspace/sparkers/sparkersSBT/target/scala-2.12/classes/output/_SUCCESS[0m
+[0m[[0m[0mdebug[0m] [0m[0m	output/part-00000-a2317aed-f37f-48b9-bd18-ec5948224a64-c000.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gabrielsoria/Workspace/sparkers/sparkersSBT/target/scala-2.12/classes/output/part-00000-a2317aed-f37f-48b9-bd18-ec5948224a64-c000.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dota[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gabrielsoria/Workspace/sparkers/sparkersSBT/target/scala-2.12/classes/dota[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dota/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gabrielsoria/Workspace/sparkers/sparkersSBT/target/scala-2.12/classes/dota/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dota/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gabrielsoria/Workspace/sparkers/sparkersSBT/target/scala-2.12/classes/dota/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dota/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gabrielsoria/Workspace/sparkers/sparkersSBT/target/scala-2.12/classes/dota/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
