@@ -1,4 +1,4 @@
-#ETL with Scala and Spark
+# ETL with Scala and Spark
 
 This project aims to build an ETL from the public Dota API to measeure diverse KPIs from a player.
 
