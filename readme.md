@@ -1,6 +1,8 @@
-# sparkers-assignment ETL with Scala and Spark
+#ETL with Scala and Spark
 
-You can find a SBT project with the solution with a Docker image, and a Jupyter Notebook.
+This project aims to build an ETL from the public Dota API to measeure diverse KPIs from a player.
+
+You can find a SBT project with a Docker image, and a Jupyter Notebook.
 
 To run the SBT:
 
