@@ -38,7 +38,7 @@ and then:
 $> docker run sparkers
 ```
 
-Option 3 (Jupyter notebook): If you have the almond kernel installed just type jupyter notebook in the sparkers-jupyter directory.
+- Option 3 (Jupyter notebook): If you have the almond kernel installed just type jupyter notebook in the sparkers-jupyter directory.
 If you don't, just use docker:
 
 ```
