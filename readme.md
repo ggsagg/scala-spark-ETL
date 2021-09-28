@@ -1,6 +1,6 @@
 # ETL with Scala and Spark
 
-This project aims to build an ETL from the public Dota API to measeure diverse KPIs from a player.
+This project aims to build an ETL from the public Dota API to measeure diverse KPIs from a player: https://www.opendota.com/
 
 You can find a SBT project with a Docker image, and a Jupyter Notebook.
 
